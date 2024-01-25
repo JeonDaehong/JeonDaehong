@@ -8,7 +8,9 @@
 
 ## ✨ About Me ✨
 **✏️ 내 이력서** : https://daehong770.oopy.io/
+<br>
 **✏️ 내 TIL블로그** : https://jeondaehong.github.io/TIL/
+<br>
 **✏️ 내 기술&이슈 블로그** https://development-my-link.tistory.com/
 
 <br>
