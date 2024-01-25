@@ -10,8 +10,10 @@
 <br>
 
 ## ✨ My Github Information ✨
+<div style="display:flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true">
+</div>
 
 <br>
 
