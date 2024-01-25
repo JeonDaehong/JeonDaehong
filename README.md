@@ -11,7 +11,6 @@
 
 ## ✨ My Github Information ✨
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true) |
-|---|---|
 
 <br>
 
