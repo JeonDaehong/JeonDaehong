@@ -10,7 +10,8 @@
 <br>
 
 ## ✨ My Github Information ✨
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true) |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact" width="48%"> | <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true" width="48%"> |
+|---|---|
 
 <br>
 
