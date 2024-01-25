@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Daehong%20Github!&fontSize=90" />
   <br>
-  <span style="font-size:250%"><strong>📚 Tech Stack 📚</strong></span>
+  <span style="font-size:250%">📚 Tech Stack 📚</span>
   <br>
   <strong>✨ Platforms & Languages</strong>
   <br>
