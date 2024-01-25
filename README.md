@@ -7,6 +7,12 @@
 <br>
 
 ## ✨ About Me ✨
+**✏️ 내 이력서** : https://daehong770.oopy.io/
+**✏️ 내 TIL블로그** : https://jeondaehong.github.io/TIL/
+**✏️ 내 기술&이슈 블로그** https://development-my-link.tistory.com/
+
+<br>
+
 📚 Tech Stack 📚
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
