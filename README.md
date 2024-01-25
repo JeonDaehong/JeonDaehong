@@ -1,4 +1,8 @@
-# Welcome to my GitHub 🚀
+<div align="center">
+
+<span style="font-size:2em;">Welcome to my GitHub 🚀</span>
+
+</div>
 
 <br>
 
