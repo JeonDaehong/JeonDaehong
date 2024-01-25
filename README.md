@@ -7,6 +7,8 @@
 <br>
 
 ## ✨ About Me ✨
+- **✏️ My Eamil : daehong770@gmail.com**
+
 - **✏️ My Resume : https://daehong770.oopy.io/**
 
 - **✏️ My TIL Blog : https://jeondaehong.github.io/TIL/**
@@ -15,9 +17,17 @@
 
 <br>
 
-📚 Tech Stack 📚
+## ✨ Tech Stack ✨
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+
+<br>
+
+## ✨ License ✨
+- **정보처리기사**
+  
+- **운전면허 1급**
 
 <br>
 
