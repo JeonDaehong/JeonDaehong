@@ -1,4 +1,4 @@
-# Welcome to my GitHub 🚀
+# 👋 Welcome to My GitHub 👋
 
 <p align="right">
   <a href="https://hits.seeyoufarm.com">
@@ -21,7 +21,7 @@
 <br>
 
 ## ✨ Tech Stack ✨
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-#7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 <br>
 
