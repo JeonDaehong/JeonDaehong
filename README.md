@@ -1,6 +1,8 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Daehong%20Github!&fontSize=90" />
-</p>
+<div align="center">
+
+# Welcome to my GitHub 🚀
+
+</div>
 
 ## ✨ About Me ✨
 📚 Tech Stack 📚
