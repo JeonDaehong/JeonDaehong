@@ -7,11 +7,11 @@
 <br>
 
 ## ✨ About Me ✨
-- **✏️ 내 이력서** : https://daehong770.oopy.io/
+- **✏️ My Resume** : https://daehong770.oopy.io/
 
-- **✏️ 내 TIL블로그** : https://jeondaehong.github.io/TIL/
+- **✏️ My TIL Blog** : https://jeondaehong.github.io/TIL/
 
-- **✏️ 내 기술&이슈 블로그** https://development-my-link.tistory.com/
+- **✏️ My Tech & Issue Blog** https://development-my-link.tistory.com/
 
 <br>
 
