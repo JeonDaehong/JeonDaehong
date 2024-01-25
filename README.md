@@ -11,8 +11,12 @@
 
 ## ✨ My Github Information ✨
 <div style="display:flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true">
+  <div style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact" style="width: 100%;">
+  </div>
+  <div style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true" style="width: 100%;">
+  </div>
 </div>
 
 <br>
