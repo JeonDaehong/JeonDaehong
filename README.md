@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Java-#1E8CBE?style=flat-square&logo=Java&logoColor=white"
+
 <!--
 **JeonDaehong/JeonDaehong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
