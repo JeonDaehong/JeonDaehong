@@ -25,7 +25,7 @@
 ## ✨ My Toy Project ✨
 - **음식 주문 배달 서비스 : https://github.com/JeonDaehong/daehong-food-delivery**
 
-- **GPT를 활용한, 자동 시나리오 작성 프로젝트 : https://github.com/JeonDaehong/scenario-gpt-project**
+- **GPT3.5를 활용한, 자동 시나리오 생성 프로젝트 : https://github.com/JeonDaehong/scenario-gpt-project**
 
 <br>
 
