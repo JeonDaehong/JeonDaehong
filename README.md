@@ -7,4 +7,9 @@
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true">
 </p>
