@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Daehong%20Github!&fontSize=90" />
   <br>
-  <h1>📚 Tech Stack 📚</h1>
+  <strong>📚 Tech Stack 📚</strong>
   <br>
-  <h3>✨ Platforms & Languages ✨</h3>
+  <strong>✨ Platforms & Languages ✨</strong>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </p>
