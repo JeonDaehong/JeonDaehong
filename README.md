@@ -30,5 +30,5 @@
 <br>
 
 ## ✨ My Github Information ✨
-<img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true" width="70%">
+<img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true" width="100%" height="50px">
 
