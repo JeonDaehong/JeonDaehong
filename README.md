@@ -30,6 +30,6 @@
 <br>
 
 ## ✨ My Github Information ✨
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true" width="100%"> |
+| ![image](https://github.com/JeonDaehong/JeonDaehong/assets/90895144/9d44b2c6-d92d-4b9a-86d2-4ae93e53d0ad) | <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true" width="100%"> |
 |---|---|
 
