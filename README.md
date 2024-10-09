@@ -1,11 +1,5 @@
 <h1 align="center"> 👋 Welcome to My GitHub! </h1>
 
-<p align="right">
-  <a href="https://hits.seeyoufarm.com">
-     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonDaehong%2FJeonDaehong%2Fhit-counter&count_bg=%238ADEF9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false" width="175">
-  </a>
-</p>
-
 <h2> 🚀 About Me </h2> 
 
 - 📧 **Email**: [daehong770@gmail.com](mailto:daehong770@gmail.com)
@@ -43,7 +37,7 @@
 
 <h2> 📊 GitHub Stats </h2>
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact" width="45%"> | <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true&theme=tokyonight" width="45%"> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true" width="100%"> |
 |---|---|
 
 <p align="center">
