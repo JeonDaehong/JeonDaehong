@@ -16,13 +16,17 @@
 ## ✨ Tech Stack ✨
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=NGINX&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
-## 🤝 Open Source Contributions
----
-Spring/Kafka[https://github.com/spring-projects/spring-kafka]🎭
-- issue: Docs say defaultRetryTopicKafkaTemplate is the default template bean name. @RetryableTopic javadoc says retryTopicDefaultKafkaTemplate[https://github.com/spring-projects/spring-kafka/issues/3514]
-- My PR: GH-3514: Change default template bean name from retryTopicDefaultKafkaTemplate to defaultRetryTopicKafkaTemplate.[https://github.com/spring-projects/spring-kafka/pull/3543]
-  - Fix: Replace retryTopicDefaultKafkaTemplate with RetryTopicBeanNames.DEFAULT_KAFKA_TEMPLATE_BEAN_NAME in Test Code
-  - Fix: Replace retryTopicDefaultKafkaTemplate with defaultRetryTopicKafkaTemplate in docs
+<h2> 🤝 Open Source Contributions </h2> 
+
+### [Spring/Kafka 🎭](https://github.com/spring-projects/spring-kafka)<br/>
+
+#### [issue: Docs say defaultRetryTopicKafkaTemplate is the default template bean name. @RetryableTopic javadoc says retryTopicDefaultKafkaTemplate](https://github.com/spring-projects/spring-kafka/issues/3514)
+- Identified a documentation inconsistency regarding the default Kafka template bean name used in the `@RetryableTopic` annotation.
+
+#### [My PR: GH-3514: Change default template bean name from retryTopicDefaultKafkaTemplate to defaultRetryTopicKafkaTemplate](https://github.com/spring-projects/spring-kafka/pull/3543)
+- **Fix**: Replaced `retryTopicDefaultKafkaTemplate` with `RetryTopicBeanNames.DEFAULT_KAFKA_TEMPLATE_BEAN_NAME` in test code.
+- **Fix**: Updated documentation to correctly reflect the default bean name as `defaultRetryTopicKafkaTemplate`.
+
 
 
 ## ✨ My Toy Project ✨
