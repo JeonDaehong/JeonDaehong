@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub !
-
 <h2> 🚀 About Me </h2> 
 
 - 📧 **Email**: [daehong770@gmail.com](mailto:daehong770@gmail.com)
@@ -37,10 +35,11 @@
 
 <h2> 📊 GitHub Stats </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true&theme=tokyonight" width="49%">
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact" style="width: 49%; height: 200px; margin-right: 0.5%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true&theme=tokyonight" style="width: 49%; height: 200px; margin-left: 0.5%;">
+</div>
+
 
 
 <p align="center">
