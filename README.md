@@ -2,8 +2,7 @@
 
 - 📧 **Email**: [daehong770@gmail.com](mailto:daehong770@gmail.com)
 - 📝 **Resume**: [My Resume](https://daehong770.oopy.io/)
-- 🖋 **TIL Blog**: [TIL Repository](https://jeondaehong.github.io/TIL/)
-- 🔗 **Tech & Issue Blog**: [Development Blog](https://development-my-link.tistory.com/)
+- 🔗 **My Tech Blog**: [My Tech Blog](https://jeondaehong.github.io/)
 <br>
 <h2> 💡 Tech Stack </h2> 
 
