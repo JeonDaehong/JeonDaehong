@@ -35,11 +35,12 @@
 <br>
 <h2> 📊 GitHub Stats </h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact" style="width: 49%; height: 200px; margin-right: 0.5%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true&theme=tokyonight" style="width: 49%; height: 200px; margin-left: 0.5%;">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact&hide=html" style="width: 48%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true&theme=tokyonight" style="width: 48%; height: auto;"/>
+</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeondaehong&theme=vue" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeondaehong&theme=vue" width="97%">
 </p>
+
