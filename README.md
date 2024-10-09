@@ -28,18 +28,16 @@
 - **Fix**: Replaced `retryTopicDefaultKafkaTemplate` with `RetryTopicBeanNames.DEFAULT_KAFKA_TEMPLATE_BEAN_NAME` in test code.
 - **Documentation**: Updated docs to correctly reflect the default bean name as `defaultRetryTopicKafkaTemplate`.
 <br>
-<h2> 🎨 Toy Projects </h2>
+<h2> 🎨 My Toy Projects </h2>
 
 - 🍔 **Food Delivery Service**: [daehong-food-delivery](https://github.com/JeonDaehong/daehong-food-delivery)
 - 🤖 **Scenario Generator Using GPT API**: [scenario-gpt-project](https://github.com/JeonDaehong/scenario-gpt-project)
 <br>
 <h2> 📊 GitHub Stats </h2>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeondaehong&layout=compact&hide=html" style="width: 49%; height: auto; margin: 0;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true&theme=tokyonight" style="width: 49%; height: auto; margin: 0;">
-</div>
-
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeondaehong&theme=vue" width="100%">
 </p>
