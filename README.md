@@ -7,8 +7,9 @@
 <h2> 💡 Tech Stack </h2> 
 
 <p>
-  <img src="https://img.shields.io/badge/Hadoop-66ccff?style=flat&logo=ApacheHadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66ccff?style=flat&logo=ApacheHadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=ApacheHive&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
