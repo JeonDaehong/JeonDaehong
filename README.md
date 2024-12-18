@@ -44,14 +44,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeondaehong&theme=vue" width="100%">
 </p>
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-    <div style="flex: 0 0 45%; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/7bf40222-0ff5-4923-9b51-6f0926b5c2a6" alt="Engineer Information Processing Certificate" style="width: 20%; max-width: 50px; margin-bottom: 5px;">
+<div style="display: flex; justify-content: space-between; gap: 10px; flex-direction: row;">
+    <div style="text-align: center;">
+        <img src="https://github.com/user-attachments/assets/7bf40222-0ff5-4923-9b51-6f0926b5c2a6" alt="Engineer Information Processing Certificate" style="width: 15%; max-width: 30px; margin-bottom: 5px;">
         <div style="font-weight: bold;">Engineer Information Processing Certificate</div>
         <div>Certificate Earned: 2023</div>
     </div>
-    <div style="flex: 0 0 45%; text-align: center;">
-        <img src="https://github.com/user-attachments/assets/b6f1faef-8eca-4b07-9e94-33d732017093" alt="Linux Master Level 2 Certificate" style="width: 20%; max-width: 50px; margin-bottom: 5px;">
+    <div style="text-align: center;">
+        <img src="https://github.com/user-attachments/assets/b6f1faef-8eca-4b07-9e94-33d732017093" alt="Linux Master Level 2 Certificate" style="width: 15%; max-width: 30px; margin-bottom: 5px;">
         <div style="font-weight: bold;">Linux Master Level 2 Certificate</div>
         <div>Certificate Earned: 2024</div>
     </div>
