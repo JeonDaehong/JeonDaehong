@@ -44,7 +44,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeondaehong&theme=vue" width="100%">
 </p>
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
+<div style="gap: 10px;">
     <div style="text-align: center; display: inline-block;">
         <img src="https://github.com/user-attachments/assets/7bf40222-0ff5-4923-9b51-6f0926b5c2a6" alt="Engineer Information Processing Certificate" style="width: 15%; max-width: 30px; margin-bottom: 5px;">
     </div>
