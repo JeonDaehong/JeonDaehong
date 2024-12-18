@@ -46,7 +46,7 @@
 
 # AWS Certificates
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+<div style="display: flex; justify-content: space-between; gap: 10px;">
     <div style="width: 48%; text-align: center;">
         <img src="https://github.com/user-attachments/assets/7bf40222-0ff5-4923-9b51-6f0926b5c2a6" alt="Engineer Information Processing Certificate" style="width: 100%; margin-bottom: 5px;">
         <div style="font-weight: bold;">Engineer Information Processing Certificate</div>
@@ -58,4 +58,5 @@
         <div>Certificate Earned: 2024</div>
     </div>
 </div>
+
 
