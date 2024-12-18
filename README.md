@@ -48,14 +48,14 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
     <div style="width: 20%; text-align: center;">
-        <img src="image1.png" alt="Solutions Architect Professional" style="width: 100%; margin-bottom: 5px;">
-        <div>Solutions Architect Professional</div>
-        <div>Certificate Earned: 2022</div>
+        <img src="https://github.com/user-attachments/assets/7bf40222-0ff5-4923-9b51-6f0926b5c2a6" alt="Engineer Information Processing Certificate" style="width: 100%; margin-bottom: 5px;">
+        <div>Engineer Information Processing Certificate</div>
+        <div>Certificate Earned: 2023</div>
     </div>
     <div style="width: 20%; text-align: center;">
-        <img src="image2.png" alt="DevOps Engineer Professional" style="width: 100%; margin-bottom: 5px;">
-        <div>DevOps Engineer Professional</div>
-        <div>Certificate Earned: 2023</div>
+        <img src="https://github.com/user-attachments/assets/b6f1faef-8eca-4b07-9e94-33d732017093" alt="Linux Master Level 2 Certificate" style="width: 100%; margin-bottom: 5px;">
+        <div>Linux Master Level 2 Certificate</div>
+        <div>Certificate Earned: 2024</div>
     </div>
 </div>
 
