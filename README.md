@@ -35,21 +35,14 @@
 - 🍔 **Food Delivery Service**: [daehong-food-delivery](https://github.com/JeonDaehong/daehong-food-delivery)
 - 🤖 **Scenario Generator Using GPT API**: [scenario-gpt-project](https://github.com/JeonDaehong/scenario-gpt-project)
 <br>
-<h2> 📊 GitHub Stats </h2>
+<h2> 📊 Certificate </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeondaehong&show_icons=true&theme=tokyonight" style="width: 100%; height: auto; margin: 0;">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeondaehong&theme=vue" width="100%">
-</p>
-
-<div style="text-align: center;">
-    <div style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/user-attachments/assets/7bf40222-0ff5-4923-9b51-6f0926b5c2a6" alt="Engineer Information Processing Certificate" style="width: 30px; margin-bottom: 5px;">
+<div style="gap: 10px;">
+    <div style="text-align: center; display: inline-block;">
+        <img src="https://github.com/user-attachments/assets/7bf40222-0ff5-4923-9b51-6f0926b5c2a6" alt="Engineer Information Processing Certificate" style="width: 15%; max-width: 30px; margin-bottom: 5px;">
     </div>
-    <div style="display: inline-block;">
-        <img src="https://github.com/user-attachments/assets/b6f1faef-8eca-4b07-9e94-33d732017093" alt="Linux Master Level 2 Certificate" style="width: 30px; margin-bottom: 5px;">
+    <div style="text-align: center; display: inline-block;">
+        <img src="https://github.com/user-attachments/assets/b6f1faef-8eca-4b07-9e94-33d732017093" alt="Linux Master Level 2 Certificate" style="width: 15%; max-width: 30px; margin-bottom: 5px;">
     </div>
 </div>
 
