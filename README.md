@@ -46,15 +46,15 @@
 
 # AWS Certificates
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-    <div style="width: 20%; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+    <div style="width: 48%; text-align: center;">
         <img src="https://github.com/user-attachments/assets/7bf40222-0ff5-4923-9b51-6f0926b5c2a6" alt="Engineer Information Processing Certificate" style="width: 100%; margin-bottom: 5px;">
-        <div>Engineer Information Processing Certificate</div>
+        <div style="font-weight: bold;">Engineer Information Processing Certificate</div>
         <div>Certificate Earned: 2023</div>
     </div>
-    <div style="width: 20%; text-align: center;">
+    <div style="width: 48%; text-align: center;">
         <img src="https://github.com/user-attachments/assets/b6f1faef-8eca-4b07-9e94-33d732017093" alt="Linux Master Level 2 Certificate" style="width: 100%; margin-bottom: 5px;">
-        <div>Linux Master Level 2 Certificate</div>
+        <div style="font-weight: bold;">Linux Master Level 2 Certificate</div>
         <div>Certificate Earned: 2024</div>
     </div>
 </div>
