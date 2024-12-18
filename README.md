@@ -44,13 +44,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeondaehong&theme=vue" width="100%">
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="width: 20%; margin: 10px; text-align: center;">
+# AWS Certificates
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+    <div style="width: 20%; text-align: center;">
         <img src="image1.png" alt="Solutions Architect Professional" style="width: 100%; margin-bottom: 5px;">
         <div>Solutions Architect Professional</div>
         <div>Certificate Earned: 2022</div>
     </div>
-    <div style="width: 20%; margin: 10px; text-align: center;">
+    <div style="width: 20%; text-align: center;">
         <img src="image2.png" alt="DevOps Engineer Professional" style="width: 100%; margin-bottom: 5px;">
         <div>DevOps Engineer Professional</div>
         <div>Certificate Earned: 2023</div>
