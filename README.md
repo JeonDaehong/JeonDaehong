@@ -25,11 +25,11 @@
 <br>
 <h2> 🛠️ Open Source Contributions </h2> 
 
-### [Apache/Iceberg 🧊](https://github.com/apache/iceberg)<br/>
-#### [PR: Issue-#13021: Iceberg Flink v2.0 Catalog Remove the MiniClusterWithClientResource dependency](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)
+### [🧊 Apache/Iceberg](https://github.com/apache/iceberg)<br/>
+#### [PR: Iceberg Flink Catalog v2.0 Remove the MiniClusterWithClientResource dependency](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)
 - **Fix**: 
 
-### [Spring/Kafka 🍃](https://github.com/spring-projects/spring-kafka)<br/>
+### [🍃 Spring/Kafka](https://github.com/spring-projects/spring-kafka)<br/>
 #### [PR: GH-3514: Change Default Template Bean Name](https://github.com/spring-projects/spring-kafka/pull/3543)
 - **Fix**: Replaced `retryTopicDefaultKafkaTemplate` with `RetryTopicBeanNames.DEFAULT_KAFKA_TEMPLATE_BEAN_NAME` in test code.
 - **Documentation**: Updated docs to correctly reflect the default bean name as `defaultRetryTopicKafkaTemplate`.
