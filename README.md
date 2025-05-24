@@ -44,3 +44,10 @@
 - 🍔 **Food Delivery Service**: [daehong-food-delivery](https://github.com/JeonDaehong/daehong-food-delivery)
 - 🤖 **Scenario Generator Using GPT API**: [scenario-gpt-project](https://github.com/JeonDaehong/scenario-gpt-project)
 
+<br>
+<h2> 📜 Certifications </h2>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/f5e301cb-0115-452f-92dd-cbe39761b5e1" alt="정보처리기사" width="60" style="vertical-align:middle; margin-right:10px;">
+  <strong>정보처리기사</strong>
+</p>
