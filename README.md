@@ -9,7 +9,7 @@
 <p>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-A81C7D?style=flat&logo=ApacheHadoop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-A81C7D?style=flat&logo=ApacheHadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=ApacheHive&logoColor=black"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
