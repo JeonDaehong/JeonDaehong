@@ -7,6 +7,7 @@
 <h2> 💡 Tech Stack </h2> 
 
 <p>
+  <img src="https://img.shields.io/badge/Iceberg-29F1FB?style=flat&logo=ApacheIaceberg&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-A81C7D?style=flat&logo=ApacheHadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=ApacheHive&logoColor=black"/>
