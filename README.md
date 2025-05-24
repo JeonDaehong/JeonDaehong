@@ -32,7 +32,7 @@
 
 ### [🧊 Apache/Iceberg](https://github.com/apache/iceberg)<br/>
 #### [PR: Iceberg Flink Catalog v2.0 Remove the MiniClusterWithClientResource dependency](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)
-- **Fix**: Removed the unnecessary JUnit 4 test dependency MiniClusterWithClientResource and migrated the Flink catalog tests in Apache Iceberg to be compatible with JUnit 5. This change simplifies the test setup for Iceberg’s Flink catalog module, reduces test complexity, improves maintainability, and aligns with both Flink 2.0 and modern testing practices.
+- **Fix**: Removed the unnecessary ***JUnit 4*** test dependency `MiniClusterWithClientResource` and migrated the Flink catalog tests in Apache Iceberg to be compatible with ***JUnit 5***. This change simplifies the test setup for Iceberg’s Flink catalog module, reduces test complexity, improves maintainability, and aligns with both ***Flink 2.0*** and modern testing practices.
 
 ### [🍃 Spring/Kafka](https://github.com/spring-projects/spring-kafka)<br/>
 #### [PR: GH-3514: Change Default Template Bean Name](https://github.com/spring-projects/spring-kafka/pull/3543)
