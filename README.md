@@ -48,6 +48,6 @@
 <h2> 📜 Certifications </h2>
 
 <p>
-  <strong>[1] Engineer Information Processing Certificate (Acquired: November 15, 2023)</strong><br>
-  <strong>[2] Linux Master Level 2 (Acquired: January 3, 2025)</strong>
+  <strong>* Engineer Information Processing Certificate (Acquired: November 15, 2023)</strong><br>
+  <strong>* Linux Master Level 2 (Acquired: January 3, 2025)</strong>
 </p>
