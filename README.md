@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=ApacheHive&logoColor=black"/>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=DuckDB&logoColor=black"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=Scala&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
