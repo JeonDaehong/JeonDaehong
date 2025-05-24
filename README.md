@@ -48,6 +48,6 @@
 <h2> 📜 Certifications </h2>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/f5e301cb-0115-452f-92dd-cbe39761b5e1" alt="정보처리기사" width="60" style="vertical-align:middle; margin-right:10px;">
-  <strong>정보처리기사</strong>
+  <strong>[1] Engineer Information Processing Certificate (Acquired: November 15, 2023)</strong><br>
+  <strong>[2] Linux Master Level 2 (Acquired: January 3, 2025)</strong>
 </p>
