@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Iceberg-50ABF1?style=flat&logo=ApacheIaceberg&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-A81C7D?style=flat&logo=ApacheHadoop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hive-2A633?style=flat&logo=ApacheHive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-C2A633?style=flat&logo=ApacheHive&logoColor=white"/>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=DuckDB&logoColor=black"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=Scala&logoColor=white"/>
