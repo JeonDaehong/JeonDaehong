@@ -37,6 +37,7 @@
 - **Fix**: Backported the removal of the MiniClusterWithClientResource dependency and the migration to JUnit 5-based testing from the main branch (originally introduced for Flink 2.0 support) to Iceberg versions 1.19 and 1.20. This change simplifies the test environment, improves maintainability, and ensures compatibility with modern Flink and JUnit testing practices.
   
 <br>
+
 ### [2. 🍃 Spring/Kafka](https://github.com/spring-projects/spring-kafka)<br/>
 #### [2.2. PR: GH-3514: Change Default Template Bean Name](https://github.com/spring-projects/spring-kafka/pull/3543) → (Merge Date: October 19, 2024)
 - **Fix**: Replaced `retryTopicDefaultKafkaTemplate` with `RetryTopicBeanNames.DEFAULT_KAFKA_TEMPLATE_BEAN_NAME` in test code.
