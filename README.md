@@ -1,7 +1,6 @@
 <h2> 🚀 About Me </h2> 
 
 - 📧 **Email**: [daehong770@gmail.com](mailto:daehong770@gmail.com)
-- 📝 **Resume**: [My Resume](https://daehong770.oopy.io/)
 - 🔗 **My Tech Blog**: [My Tech Blog](https://jeondaehong.github.io/)
 <br>
 <h2> 💡 Tech Stack </h2> 
@@ -27,7 +26,9 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </p>
+
 <br>
+
 <h2> 🛠️ Open Source Contributions </h2> 
 
 ### [1. 🧊 Apache/Iceberg](https://github.com/apache/iceberg)<br/>
