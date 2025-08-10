@@ -4,8 +4,8 @@
 <br>
 <br>
 <p align="center" style="font-size: 28px; font-weight: bold;">
-  <strong>Hello! I am Daehong Jeon</strong> <br>
-    <strong> a software engineer and data engineer.</strong>
+  <strong>Hello! My name is Daehong Jeon</strong> <br>
+    <strong> I'm Software Engineer / Data Engineer.</strong>
 </p>
 
 <br>
@@ -58,11 +58,11 @@ while designing and operating **scalable and reliable architectures** for large-
 
 ### ⭐️⭐️ contribution & activity list
 
-| project        | summary                                                                                                                                                                                                                                                                                                                                                                                                             | link                                                                                      | date  |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------|
-| 🧊 Apache Iceberg  | **Fix:** Removed the unnecessary *JUnit 4* test dependency `MiniClusterWithClientResource` and migrated the Flink catalog tests in Apache Iceberg to be compatible with *JUnit 5*. This change simplifies the test setup for Iceberg’s Flink catalog module, reduces test complexity, improves maintainability, and aligns with both *Flink 2.0* and modern testing practices.<br/>→ **Main Branch Merge Date: May 23, 2025**                    | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)                | 25.05 |
-| 🧊 Apache Iceberg  | **Fix:** Backported the removal of the MiniClusterWithClientResource dependency and the migration to JUnit 5-based testing from the main branch (originally introduced for Flink 2.0 support) to Iceberg versions 1.19 and 1.20. This change simplifies the test environment, improves maintainability, and ensures compatibility with modern Flink and JUnit testing practices.<br/>→ **Main Branch Merge Date: May 28, 2025** | [PR](https://github.com/apache/iceberg/pull/13165)                                       | 25.05 |
-| 🍃 Spring Kafka   | **Fix:** Replaced `retryTopicDefaultKafkaTemplate` with `RetryTopicBeanNames.DEFAULT_KAFKA_TEMPLATE_BEAN_NAME` in test code.<br/>**Documentation:** Updated docs to correctly reflect the default bean name as `defaultRetryTopicKafkaTemplate`.<br/>→ **Main Branch Merge Date: October 19, 2024** | [PR](https://github.com/spring-projects/spring-kafka/pull/3543)                       | 24.10 |
+| project        | summary                                                                                                  | link                                                                                      | date  |
+|----------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------|
+| 🧊 Apache Iceberg  | Migrated Flink catalog tests from JUnit 4 to JUnit 5, improving compatibility and simplifying tests.    | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)                | 25.05 |
+| 🧊 Apache Iceberg  | Backported JUnit 5 migration and removal of old test dependencies to Iceberg 1.19 and 1.20 versions.      | [PR](https://github.com/apache/iceberg/pull/13165)                                       | 25.05 |
+| 🍃 Spring Kafka   | Updated test code and docs to use correct retry topic Kafka template bean name.                           | [PR](https://github.com/spring-projects/spring-kafka/pull/3543)                          | 24.10 |
 
 <h2> 💡 Tech Stack </h2> 
 
