@@ -47,6 +47,8 @@
 - To grow as a **technology leader** who internalizes and spreads the latest trends within organizations,  
 while designing and operating **scalable and reliable architectures** for large-scale, high-traffic environments.
 
+<br>
+
 <h2> 🛠️ Open Source Contributions </h2> 
 
 ### ⭐️ Contribution Library
@@ -64,7 +66,7 @@ while designing and operating **scalable and reliable architectures** for large-
 | <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg" height="40" style="margin-right:10px;" /> | Backported the JUnit5 migration to Iceberg 1.19 and 1.20, enhancing test maintainability and compatibility. | [PR](https://github.com/apache/iceberg/pull/13165)                                       | 25.05 |
 | <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Kafka" height="40" /> | Updated test code and documentation to correctly use the retry topic Kafka template bean name, improving clarity. | [PR](https://github.com/spring-projects/spring-kafka/pull/3543)                          | 24.10 |
 
-
+<br>
 
 <h2> 💡 Tech Stack </h2> 
 
@@ -90,8 +92,26 @@ while designing and operating **scalable and reliable architectures** for large-
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </p>
 
+<br>
 
 <h2> 📜 Certifications </h2>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="padding: 0 40px;">
+      <a href="https://jeondaehong.github.io/">
+        <img width="100" height="50" src="https://github.com/user-attachments/assets/128d94e5-9583-4ca0-8b97-387bab82295f" alt="Korean National Certified Information Processing Engineer" />
+      </a>
+      <div style="margin-top: 8px; font-weight: bold;">Korean National Certified Information Processing Engineer (2023.11)</div>
+    </td>
+    <td align="center" style="padding: 0 40px;">
+      <a href="mailto:daehong770@gmail.com">
+        <img width="100" height="50" src="https://github.com/user-attachments/assets/469eb7fd-0584-4e68-95c7-7d597cbb1396" alt="Linux Master" />
+      </a>
+      <div style="margin-top: 8px; font-weight: bold;">Linux Master (2025.01)</div>
+    </td
+  </tr>
+</table>
 
 - ✏️ **Engineer Information Processing Certificate** (Acquired: November 15, 2023)
 - ✏️ **Linux Master** (Acquired: January 3, 2025)
