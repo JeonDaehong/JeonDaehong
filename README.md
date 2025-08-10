@@ -58,11 +58,11 @@ while designing and operating **scalable and reliable architectures** for large-
 
 ### ⭐️⭐️ contribution & activity list
 
-| project                | summary                                                                                                  | link                                                                                      | date  |
-|------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------|
-| 🧊 Apache Iceberg         | Migrated Flink catalog tests from JUnit 4 to JUnit 5, improving compatibility and simplifying tests.    | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)                | 25.05 |
-| 🧊 Apache Iceberg         | Backported JUnit 5 migration and removal of old test dependencies to Iceberg 1.19 and 1.20 versions.      | [PR](https://github.com/apache/iceberg/pull/13165)                                       | 25.05 |
-| 🍃 Spring Kafka           | Updated test code and docs to use correct retry topic Kafka template bean name.                           | [PR](https://github.com/spring-projects/spring-kafka/pull/3543)                          | 24.10 |
+| project                      | summary                                                                                                  | link                                                                                      | date  |
+|------------------------------|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------|
+| 🧊 Apache Iceberg            | Migrated Flink catalog tests from JUnit 4 to JUnit 5, improving compatibility and simplifying tests.    | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)                | 25.05 |
+| 🧊 Apache Iceberg            | Backported JUnit 5 migration and removal of old test dependencies to Iceberg 1.19 and 1.20 versions.      | [PR](https://github.com/apache/iceberg/pull/13165)                                       | 25.05 |
+| 🍃 Spring Kafka              | Updated test code and docs to use correct retry topic Kafka template bean name.                           | [PR](https://github.com/spring-projects/spring-kafka/pull/3543)                          | 24.10 |
 
 <h2> 💡 Tech Stack </h2> 
 
