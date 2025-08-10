@@ -2,21 +2,22 @@
 
 ---
 
-<p align="center">
-  <strong>Hi, I'm Software Engineer & Data Engineer</strong>
+<p align="center" style="font-size: 28px; font-weight: bold;">
+  Hello! I am Daehong Jeon, a software engineer and data engineer.
 </p>
 
 <p align="center">
-  <a href="https://jeondaehong.github.io/">
-    <img src="https://img.shields.io/badge/-BLOGGER-FF5722?style=flat-square&logo=blogger" alt="Blogger"/>
+  <a href="https://jeondaehong.github.io/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?style=flat&logo=blogger&logoColor=white" alt="Blogger"/>
   </a>
-  <a href="mailto:daehong770@gmail.com">
-    <img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail" alt="Gmail"/>
+  <a href="mailto:daehong770@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/daehong-jeon">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/daehong-jeon" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 
 ## 🧑‍💻 About Me  
 **💻 Spark & Iceberg-based Large-Scale Data Pipeline Engineer**  
