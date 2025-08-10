@@ -3,7 +3,7 @@
 ---
 
 <p align="center" style="font-size: 28px; font-weight: bold;">
-  Hello! I am Daehong Jeon, a software engineer and data engineer.
+  <strong>Hello! I am Daehong Jeon, a software engineer and data engineer.</strong>
 </p>
 
 <p align="center">
