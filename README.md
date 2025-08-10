@@ -1,10 +1,39 @@
-<img width="1500" height="600" alt="Image" src="https://github.com/user-attachments/assets/dfcb4d6b-c604-4e72-ae60-a69fb9adb523" />
+<img width="1500" height="600" alt="Image" src="https://github.com/user-attachments/assets/093baa11-0c84-42de-8189-f279bb553d1d" />
 
-<h2> 🚀 About Me </h2> 
+---
 
-- 📧 **Email**: [daehong770@gmail.com](mailto:daehong770@gmail.com)
-- 🔗 **My Tech Blog**: [My Tech Blog](https://jeondaehong.github.io/)
-<br>
+# Hi, I'm Software Engineer & Data Engineer
+
+<p align="center">
+  <a href="https://jeondaehong.github.io/">
+    <img src="https://img.shields.io/badge/-BLOGGER-FF5722?style=flat-square&logo=blogger" alt="Blogger"/>
+  </a>
+  <a href="mailto:daehong770@gmail.com">
+    <img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daehong-jeon">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+## 🧑‍💻 About Me
+**💻 Spark & Iceberg-based Large-Scale Data Pipeline Engineer**  
+Extensive experience in the finance and e-commerce domains,  
+covering everything from Hadoop to modern cloud platforms.  
+Skilled in processing **tens to hundreds of terabytes** of data,  
+developing Spark & cloud-based ETL pipelines, optimizing Hadoop legacy systems,  
+and designing highly available, failover-ready, and concurrency-controlled data infrastructures.
+
+**🌐 Open Source Contributions**
+- Active contributor and maintainer for data engineering projects such as **Apache Iceberg** and **Apache Kafka**, including issue triage, PR reviews, and documentation improvements.  
+- **Open Source Mentoring (2025.05~)** — Engaged in fostering a healthy and sustainable open source culture in Korea.
+
+**🎯 Goals**
+To grow as a **technology leader** who internalizes and spreads the latest trends within organizations,  
+while designing and operating **scalable and reliable architectures** for large-scale, high-traffic environments.
+
+---
+
 <h2> 💡 Tech Stack </h2> 
 
 <p>
