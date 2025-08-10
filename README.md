@@ -4,7 +4,7 @@
   <strong>Hello! I am Daehong Jeon, a software engineer and data engineer.</strong>
 </p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="padding: 0 40px;">
       <a href="https://jeondaehong.github.io/">
@@ -26,6 +26,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
