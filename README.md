@@ -45,7 +45,22 @@
 - To grow as a **technology leader** who internalizes and spreads the latest trends within organizations,  
 while designing and operating **scalable and reliable architectures** for large-scale, high-traffic environments.
 
----
+<h2> 🛠️ Open Source Contributions </h2> 
+
+### ⭐️ Contribution Library
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg" height="40" style="margin-right:10px;" />
+  <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Kafka" height="40" />
+</p>
+
+### ⭐️⭐️ contribution & activity list
+
+| project        | summary                                                                                                                                                                                                                                                                                                                                                                                                             | link                                                                                      | date  |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------|
+| 🧊 Apache Iceberg  | **Fix:** Removed the unnecessary *JUnit 4* test dependency `MiniClusterWithClientResource` and migrated the Flink catalog tests in Apache Iceberg to be compatible with *JUnit 5*. This change simplifies the test setup for Iceberg’s Flink catalog module, reduces test complexity, improves maintainability, and aligns with both *Flink 2.0* and modern testing practices.<br/>→ **Main Branch Merge Date: May 23, 2025**                    | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)                | 25.05 |
+| 🧊 Apache Iceberg  | **Fix:** Backported the removal of the MiniClusterWithClientResource dependency and the migration to JUnit 5-based testing from the main branch (originally introduced for Flink 2.0 support) to Iceberg versions 1.19 and 1.20. This change simplifies the test environment, improves maintainability, and ensures compatibility with modern Flink and JUnit testing practices.<br/>→ **Main Branch Merge Date: May 28, 2025** | [PR](https://github.com/apache/iceberg/pull/13165)                                       | 25.05 |
+| 🍃 Spring Kafka   | **Fix:** Replaced `retryTopicDefaultKafkaTemplate` with `RetryTopicBeanNames.DEFAULT_KAFKA_TEMPLATE_BEAN_NAME` in test code.<br/>**Documentation:** Updated docs to correctly reflect the default bean name as `defaultRetryTopicKafkaTemplate`.<br/>→ **Main Branch Merge Date: October 19, 2024** | [PR](https://github.com/spring-projects/spring-kafka/pull/3543)                       | 24.10 |
 
 <h2> 💡 Tech Stack </h2> 
 
@@ -71,38 +86,7 @@ while designing and operating **scalable and reliable architectures** for large-
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </p>
 
-<br>
 
-<h2> 🛠️ Open Source Contributions </h2> 
-
-### ⭐️ Contribution Library
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg" height="40" style="margin-right:10px;" />
-  <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Kafka" height="40" />
-</p>
-
-### ⭐️⭐️ contribution & activity list
-
-| project        | summary                                                                                                                                                                                                                                                                                                                                                                                                             | link                                                                                      | date  |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------|
-| 🧊 Apache Iceberg  | **Fix:** Removed the unnecessary *JUnit 4* test dependency `MiniClusterWithClientResource` and migrated the Flink catalog tests in Apache Iceberg to be compatible with *JUnit 5*. This change simplifies the test setup for Iceberg’s Flink catalog module, reduces test complexity, improves maintainability, and aligns with both *Flink 2.0* and modern testing practices.<br/>→ **Main Branch Merge Date: May 23, 2025**                    | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)                | 25.05 |
-| 🧊 Apache Iceberg  | **Fix:** Backported the removal of the MiniClusterWithClientResource dependency and the migration to JUnit 5-based testing from the main branch (originally introduced for Flink 2.0 support) to Iceberg versions 1.19 and 1.20. This change simplifies the test environment, improves maintainability, and ensures compatibility with modern Flink and JUnit testing practices.<br/>→ **Main Branch Merge Date: May 28, 2025** | [PR](https://github.com/apache/iceberg/pull/13165)                                       | 25.05 |
-| 🍃 Spring Kafka   | **Fix:** Replaced `retryTopicDefaultKafkaTemplate` with `RetryTopicBeanNames.DEFAULT_KAFKA_TEMPLATE_BEAN_NAME` in test code.<br/>**Documentation:** Updated docs to correctly reflect the default bean name as `defaultRetryTopicKafkaTemplate`.<br/>→ **Main Branch Merge Date: October 19, 2024** | [PR](https://github.com/spring-projects/spring-kafka/pull/3543)                       | 24.10 |
-
-
-
-
-
-
-<br>
-
-<h2> 🎨 My Toy Projects </h2>
-
-- 🍔 **Food Delivery Service**: [daehong-food-delivery](https://github.com/JeonDaehong/daehong-food-delivery)
-- 🤖 **Scenario Generator Using GPT API**: [scenario-gpt-project](https://github.com/JeonDaehong/scenario-gpt-project)
-
-<br>
 <h2> 📜 Certifications </h2>
 
 - ✏️ **Engineer Information Processing Certificate** (Acquired: November 15, 2023)
