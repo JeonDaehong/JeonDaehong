@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://jeondaehong.github.io/" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/blogger-%23FF5722.svg?style=flat&logo=blogger&logoColor=white" alt="Blogger"/>
+  <a href="https://jeondaehong.github.io/" style="margin: 0 15px;">
+    <img width="512" height="512" src="https://github.com/user-attachments/assets/f3e01811-c3dd-42fd-8927-92bcf59cbc03" alt="Image 1" />
   </a>
-  <a href="mailto:daehong770@gmail.com" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:daehong770@gmail.com" style="margin: 0 15px;">
+    <img width="512" height="512" src="https://github.com/user-attachments/assets/a1b40ffb-7ead-43f5-848b-2ec3a7f75cde" alt="Image 2" />
   </a>
-  <a href="https://www.linkedin.com/in/daehong-jeon" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/daehong-jeon" style="margin: 0 15px;">
+    <img width="800" height="800" src="https://github.com/user-attachments/assets/a15a341e-e665-4670-9f2a-f3628f1cc82e" alt="Image 3" />
   </a>
 </p>
 
