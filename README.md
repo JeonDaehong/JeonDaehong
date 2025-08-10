@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://jeondaehong.github.io/" style="margin: 0 10px;">
+  <a href="https://jeondaehong.github.io/" style="margin: 0 30px;">
     <img width="50" height="50" src="https://github.com/user-attachments/assets/f3e01811-c3dd-42fd-8927-92bcf59cbc03" alt="Image 1" />
   </a>
-  <a href="mailto:daehong770@gmail.com" style="margin: 0 10px;">
+  <a href="mailto:daehong770@gmail.com" style="margin: 0 30px;">
     <img width="50" height="50" src="https://github.com/user-attachments/assets/a1b40ffb-7ead-43f5-848b-2ec3a7f75cde" alt="Image 2" />
   </a>
-  <a href="https://www.linkedin.com/in/daehong-jeon" style="margin: 0 10px;">
-    <img width="50" height="50" src="https://github.com/user-attachments/assets/a15a341e-e665-4670-9f2a-f3628f1cc82e" alt="Image 3" />
+  <a href="https://www.linkedin.com/in/daehong-jeon" style="margin: 0 30px;">
+    <img width="50" height="50" src="https://github.com/user-attachments/assets/18a2e315-2214-491b-b84b-2cc174327a7d" alt="Image 3" />
   </a>
 </p>
 
