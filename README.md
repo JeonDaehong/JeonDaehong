@@ -4,8 +4,8 @@
 <br>
 <br>
 <p align="center" style="font-size: 28px; font-weight: bold;">
-  <strong>Hello! I am Daehong Jeon
-    a software engineer and data engineer.</strong>
+  <strong>Hello! I am Daehong Jeon</strong> <br>
+    <strong> a software engineer and data engineer.</strong>
 </p>
 
 <br>
