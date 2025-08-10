@@ -2,7 +2,9 @@
 
 ---
 
-# Hi, I'm Software Engineer & Data Engineer
+<p align="center">
+  **Hi, I'm Software Engineer & Data Engineer**
+</p>
 
 <p align="center">
   <a href="https://jeondaehong.github.io/">
@@ -16,7 +18,7 @@
   </a>
 </p>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  
 **💻 Spark & Iceberg-based Large-Scale Data Pipeline Engineer**  
 Extensive experience in the finance and e-commerce domains,  
 covering everything from Hadoop to modern cloud platforms.  
@@ -24,11 +26,11 @@ Skilled in processing **tens to hundreds of terabytes** of data,
 developing Spark & cloud-based ETL pipelines, optimizing Hadoop legacy systems,  
 and designing highly available, failover-ready, and concurrency-controlled data infrastructures.
 
-**🌐 Open Source Contributions**
+**🌐 Open Source Contributions**  
 - Active contributor and maintainer for data engineering projects such as **Apache Iceberg** and **Apache Kafka**, including issue triage, PR reviews, and documentation improvements.  
 - **Open Source Mentoring (2025.05~)** — Engaged in fostering a healthy and sustainable open source culture in Korea.
 
-**🎯 Goals**
+**🎯 Goals**  
 To grow as a **technology leader** who internalizes and spreads the latest trends within organizations,  
 while designing and operating **scalable and reliable architectures** for large-scale, high-traffic environments.
 
