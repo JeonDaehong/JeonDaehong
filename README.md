@@ -1,3 +1,5 @@
+<img width="1500" height="600" alt="Image" src="https://github.com/user-attachments/assets/dfcb4d6b-c604-4e72-ae60-a69fb9adb523" />
+
 <h2> 🚀 About Me </h2> 
 
 - 📧 **Email**: [daehong770@gmail.com](mailto:daehong770@gmail.com)
