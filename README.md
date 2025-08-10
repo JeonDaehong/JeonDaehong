@@ -100,13 +100,13 @@ while designing and operating **scalable and reliable architectures** for large-
   <tr>
     <td align="center" style="padding: 0 40px;">
       <a href="https://jeondaehong.github.io/">
-        <img width="300" height="200" src="https://github.com/user-attachments/assets/128d94e5-9583-4ca0-8b97-387bab82295f" alt="Korean National Certified Information Processing Engineer" />
+        <img width="200" height="200" src="https://github.com/user-attachments/assets/af7c76c9-54fa-435a-b90b-e4fb93c6c116" alt="Korean National Certified Information Processing Engineer" />
       </a>
       <div style="margin-top: 8px; font-weight: bold;">✏️ Korean National Certified Information Processing Engineer (2023.11)</div>
     </td>
     <td align="center" style="padding: 0 40px;">
       <a href="mailto:daehong770@gmail.com">
-        <img width="300" height="200" src="https://github.com/user-attachments/assets/50da7303-1bbf-494e-be90-d9afe847553b" alt="Linux Master" />
+        <img width="200" height="200" src="https://github.com/user-attachments/assets/cae27067-a37c-43ce-bdb7-3bd284f42951" alt="Linux Master" />
       </a>
       <div style="margin-top: 8px; font-weight: bold;">✏️ Linux Master (2025.01)</div>
     </td
