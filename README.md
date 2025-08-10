@@ -1,7 +1,8 @@
 <img width="1500" height="600" alt="Image" src="https://github.com/user-attachments/assets/093baa11-0c84-42de-8189-f279bb553d1d" />
 
 <br>
-
+<br>
+<br>
 <p align="center" style="font-size: 28px; font-weight: bold;">
   <strong>Hello! I am Daehong Jeon, a software engineer and data engineer.</strong>
 </p>
