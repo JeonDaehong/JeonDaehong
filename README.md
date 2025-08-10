@@ -106,7 +106,7 @@ while designing and operating **scalable and reliable architectures** for large-
     </td>
     <td align="center" style="padding: 0 40px;">
       <a href="mailto:daehong770@gmail.com">
-        <img width="300" height="200" src="https://github.com/user-attachments/assets/469eb7fd-0584-4e68-95c7-7d597cbb1396" alt="Linux Master" />
+        <img width="300" height="200" src="https://github.com/user-attachments/assets/50da7303-1bbf-494e-be90-d9afe847553b" alt="Linux Master" />
       </a>
       <div style="margin-top: 8px; font-weight: bold;">✏️ Linux Master (2025.01)</div>
     </td
