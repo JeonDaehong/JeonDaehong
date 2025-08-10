@@ -100,18 +100,15 @@ while designing and operating **scalable and reliable architectures** for large-
   <tr>
     <td align="center" style="padding: 0 40px;">
       <a href="https://jeondaehong.github.io/">
-        <img width="100" height="50" src="https://github.com/user-attachments/assets/128d94e5-9583-4ca0-8b97-387bab82295f" alt="Korean National Certified Information Processing Engineer" />
+        <img width="300" height="200" src="https://github.com/user-attachments/assets/128d94e5-9583-4ca0-8b97-387bab82295f" alt="Korean National Certified Information Processing Engineer" />
       </a>
-      <div style="margin-top: 8px; font-weight: bold;">Korean National Certified Information Processing Engineer (2023.11)</div>
+      <div style="margin-top: 8px; font-weight: bold;">✏️ Korean National Certified Information Processing Engineer (2023.11)</div>
     </td>
     <td align="center" style="padding: 0 40px;">
       <a href="mailto:daehong770@gmail.com">
-        <img width="100" height="50" src="https://github.com/user-attachments/assets/469eb7fd-0584-4e68-95c7-7d597cbb1396" alt="Linux Master" />
+        <img width="300" height="200" src="https://github.com/user-attachments/assets/469eb7fd-0584-4e68-95c7-7d597cbb1396" alt="Linux Master" />
       </a>
-      <div style="margin-top: 8px; font-weight: bold;">Linux Master (2025.01)</div>
+      <div style="margin-top: 8px; font-weight: bold;">✏️ Linux Master (2025.01)</div>
     </td
   </tr>
-</table>
-
-- ✏️ **Engineer Information Processing Certificate** (Acquired: November 15, 2023)
-- ✏️ **Linux Master** (Acquired: January 3, 2025)
+</table
