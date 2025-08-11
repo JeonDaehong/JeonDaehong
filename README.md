@@ -54,8 +54,14 @@ while designing and operating **scalable and reliable architectures** for large-
 ### ⭐️ Contribution Library
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg" height="40" style="margin-right:10px;" />
-  <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Kafka" height="40" />
+  <a href="https://github.com/apache/iceberg" target="_blank">
+    <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" 
+         alt="Apache Iceberg" height="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://github.com/spring-projects/spring-kafka" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" 
+         alt="Spring Kafka" height="40" />
+  </a>
 </p>
 
 ### ⭐️⭐️ contribution & activity list
