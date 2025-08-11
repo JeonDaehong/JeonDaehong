@@ -70,27 +70,7 @@ while designing and operating **scalable and reliable architectures** for large-
 
 <h2> 💡 Tech Stack </h2> 
 
-<p>
-  <img src="https://img.shields.io/badge/Iceberg-50ABF1?style=flat&logo=ApacheIaceberg&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-A81C7D?style=flat&logo=ApacheHadoop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hive-C2A633?style=flat&logo=ApacheHive&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=DuckDB&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=Scala&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=NGINX&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=Naver&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-</p>
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/67333d86-84ff-42d7-929c-8237244a584d" />
 
 <br>
 
