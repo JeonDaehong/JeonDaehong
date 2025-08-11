@@ -76,20 +76,31 @@ while designing and operating **scalable and reliable architectures** for large-
 
 <h2> 📜 Certifications </h2>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td align="center" style="padding: 0;">
-      <a href="https://jeondaehong.github.io/">
-        <img width="100" height="100" src="https://github.com/user-attachments/assets/af7c76c9-54fa-435a-b90b-e4fb93c6c116" alt="Korean National Certified Information Processing Engineer" />
-      </a>
-      <div style="margin-top: 8px; font-weight: bold;">✏️ Certified Information Processing Engineer (2023.11)</div>
-    </td>
-    <td align="center" style="padding: 0;">
-      <a href="mailto:daehong770@gmail.com">
-        <img width="100" height="100" src="https://github.com/user-attachments/assets/14c77797-4e73-4191-9888-2a57c8266f39" alt="Linux Master" />
-      </a>
-      <div style="margin-top: 8px; font-weight: bold;">✏️ Linux Master (2025.01)</div>
-    </td>
-  </tr>
-</table>
+<div class="card-wrapper" style="width:100%; box-sizing:border-box;">
+  <table role="presentation" style="width:100%; border-collapse:collapse; border:none; table-layout:fixed;">
+    <tr>
+      <td style="width:50%; padding:0; text-align:center; vertical-align:top;">
+        <a href="https://jeondaehong.github.io/">
+          <img
+            src="https://github.com/user-attachments/assets/af7c76c9-54fa-435a-b90b-e4fb93c6c116"
+            alt="Certified Information Processing Engineer"
+            style="display:block; width:100px; height:100px; max-width:100%; height:auto; margin:0 auto; object-fit:cover;"
+          />
+        </a>
+        <div style="margin-top:8px; font-weight:bold;">✏️ Certified Information Processing Engineer (2023.11)</div>
+      </td>
+      <td style="width:50%; padding:0; text-align:center; vertical-align:top;">
+        <a href="mailto:daehong770@gmail.com">
+          <img
+            src="https://github.com/user-attachments/assets/14c77797-4e73-4191-9888-2a57c8266f39"
+            alt="Linux Master"
+            style="display:block; width:100px; height:100px; max-width:100%; height:auto; margin:0 auto; object-fit:cover;"
+          />
+        </a>
+        <div style="margin-top:8px; font-weight:bold;">✏️ Linux Master (2025.01)</div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
