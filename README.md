@@ -13,7 +13,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="padding: 0 40px;">
-      <a href="https://jeondaehong.github.io/">
+      <a href="https://daehong770.me.kr/">
         <img width="50" height="50" src="https://github.com/user-attachments/assets/f3e01811-c3dd-42fd-8927-92bcf59cbc03" alt="My Blog" />
       </a>
       <div style="margin-top: 8px; font-weight: bold;">My Blog</div>
