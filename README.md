@@ -60,7 +60,11 @@ while designing and operating **scalable and reliable architectures** for large-
   </a>
   <a href="https://github.com/spring-projects/spring-kafka" target="_blank">
     <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" 
-         alt="Spring Kafka" height="40" />
+         alt="Spring Kafka" height="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://github.com/apache/gravitino" target="_blank">
+    <img src="https://img.shields.io/badge/Apache%20Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white" 
+         alt="Apache Gravitino" height="40" />
   </a>
 </p>
 
@@ -68,9 +72,11 @@ while designing and operating **scalable and reliable architectures** for large-
 
 | project                                                                                                                                           | summary                                                                                                 | link                                                                                      | date  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------|
+| <img src="https://img.shields.io/badge/Apache%20Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Gravitino" height="40" style="margin-right:10px;" /> | Added `request.validate()` call in `PartitionOperations.java` to ensure invalid partition requests return `BAD_REQUEST` as expected, improving request validation reliability. | [PR](https://github.com/apache/gravitino/pull/8098) | 25.08 |
 | <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg" height="40" style="margin-right:10px;" /> | Migrated Flink catalog tests from JUnit4 to JUnit5, significantly improving test compatibility and reliability. | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698)                | 25.05 |
 | <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg" height="40" style="margin-right:10px;" /> | Backported the JUnit5 migration to Iceberg 1.19 and 1.20, enhancing test maintainability and compatibility. | [PR](https://github.com/apache/iceberg/pull/13165)                                       | 25.05 |
 | <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Kafka" height="40" /> | Updated test code and documentation to correctly use the retry topic Kafka template bean name, improving clarity. | [PR](https://github.com/spring-projects/spring-kafka/pull/3543)                          | 24.10 |
+
 
 <br>
 
