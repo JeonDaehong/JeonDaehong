@@ -124,6 +124,3 @@ while designing and operating **scalable and reliable architectures** for large-
     </td>
   </tr>
 </table>
-
-
-
