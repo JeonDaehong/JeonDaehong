@@ -83,13 +83,6 @@ while designing and operating **scalable and reliable architectures** for large-
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported the JUnit5 migration to Iceberg 1.19 and 1.20, enhancing test maintainability and compatibility. | Improvement(Core)  | [PR](https://github.com/apache/iceberg/pull/13165)                                       | 25.05 |
 | ![](https://img.shields.io/badge/Kafka-6DB33F?style=for-the-badge&logo=apache&logoColor=white) | Updated test code and documentation to correctly use the retry topic Kafka template bean name, improving clarity. | Improvement, Docs   | [PR](https://github.com/spring-projects/spring-kafka/pull/3543)                          | 24.10 |
 
-
-
-
-
-
-
-
 <br>
 
 <h2> 💡 Tech Stack </h2> 
