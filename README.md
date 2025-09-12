@@ -79,7 +79,9 @@ while designing and operating **scalable and reliable architectures** for large-
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed early return in `GroupMetaService.updateGroup` that ignored non-role updates. Added unit test. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8255) | 25.08 |
 
 <details>
-<summary>▶ Show more</summary>
+  <summary style="cursor: pointer; font-weight: bold; font-size: 14px; padding: 6px 12px; border: 1px solid #ccc; border-radius: 6px; background: #f9f9f9; display: inline-block; margin: 10px 0;">
+    ▶ Show more
+  </summary>
 
 | project | summary | Type | link | date |
 |---------|---------|------|------|------|
