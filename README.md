@@ -93,7 +93,7 @@ while designing and operating **scalable and reliable architectures** for large-
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added `request.validate()` in `PartitionOperations.java` for proper error handling. | Improvement | [PR](https://github.com/apache/gravitino/pull/8098) | 25.08 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Migrated Flink catalog tests from JUnit4 to JUnit5. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698) | 25.05 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported JUnit5 migration to Iceberg 1.19 and 1.20. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/13165) | 25.05 |
-| ![](https://img.shields.io/badge/Kafka-6DB33F?style=for-the-badge&logo=apache&logoColor=white) | Updated test code and docs for Kafka retry topic template bean name. | Improvement, Docs | [PR](https://github.com/spring-projects/spring-kafka/pull/3543) | 24.10 |
+| ![](https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | Updated test code and docs for Kafka retry topic template bean name. | Improvement, Docs | [PR](https://github.com/spring-projects/spring-kafka/pull/3543) | 24.10 |
 
 </details>
 </div>
