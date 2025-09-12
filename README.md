@@ -80,9 +80,23 @@ while designing and operating **scalable and reliable architectures** for large-
 
 <div align="center">
 <details>
-  <summary style="cursor: pointer; font-weight: bold; font-size: 14px; padding: 6px 12px; border: 1px solid #ccc; border-radius: 6px; background: #f9f9f9; display: inline-block; margin: 10px 0;">
-    Show more ...
-  </summary>
+  <summary style="
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
+  color: white;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 10px 0;
+  transition: background 0.3s ease;
+">
+  Show more ...
+</summary>
 
 <br/>
 
