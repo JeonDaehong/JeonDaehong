@@ -73,11 +73,12 @@ while designing and operating **scalable and reliable architectures** for large-
 | project | summary | Type | link | date |
 |---------|---------|------|------|------|
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Fixed Markdown rendering in **Row-level Deletes** section (bullets, duplicates, line breaks). | Docs | [PR](https://github.com/apache/iceberg/pull/13851) | 25.09 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added missing `super.validate()` call in `OAuth2TokenResponse.validate()` to ensure parent class validation (`BaseResponse`) is executed before subclass-specific checks. | Bug Fix, Improvement | [PR](https://github.com/apache/gravitino/pull/8376) | 25.09 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed incorrect field assignments in `TestModelMetaService` tests to ensure name and comment updates are validated correctly. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8296) | 25.08 |
-| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Added documentation for **Table Maintenance in Flink**, enabling file compaction, orphan file removal, and snapshot expiration without Spark. | Docs | [PR](https://github.com/apache/iceberg/pull/13853) | 25.08 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed early return in `GroupMetaService.updateGroup` that ignored non-role updates. Added unit test. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8255) | 25.08 |
+| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added missing `super.validate()` call in `OAuth2TokenResponse.validate()`. | Bug Fix, Improvement | [PR](https://github.com/apache/gravitino/pull/8376) | 25.09 |
+| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed incorrect field assignments in `TestModelMetaService` tests. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8296) | 25.08 |
+| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Added docs for **Table Maintenance in Flink** (file compaction, orphan removal, snapshot expiration). | Docs | [PR](https://github.com/apache/iceberg/pull/13853) | 25.08 |
+| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed early return in `GroupMetaService.updateGroup` that ignored non-role updates. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8255) | 25.08 |
 
+<div align="center">
 <details>
   <summary style="cursor: pointer; font-weight: bold; font-size: 14px; padding: 6px 12px; border: 1px solid #ccc; border-radius: 6px; background: #f9f9f9; display: inline-block; margin: 10px 0;">
     ▶ Show more
@@ -85,14 +86,16 @@ while designing and operating **scalable and reliable architectures** for large-
 
 | project | summary | Type | link | date |
 |---------|---------|------|------|------|
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed NullPointerException in `EntityCombinedFileset` by initializing `hiddenProperties` and adding null-safe handling. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8238) | 25.08 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed null-safe handling of `managed` property in `CreateFileset.java`, ensuring default to external mode. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8144) | 25.08 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added `request.validate()` call in `PartitionOperations.java` to ensure invalid partition requests return `BAD_REQUEST`. | Improvement | [PR](https://github.com/apache/gravitino/pull/8098) | 25.08 |
+| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed NullPointerException in `EntityCombinedFileset` with null-safe `hiddenProperties`. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8238) | 25.08 |
+| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed null-safe handling of `managed` property in `CreateFileset.java`. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8144) | 25.08 |
+| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added `request.validate()` in `PartitionOperations.java` for proper error handling. | Improvement | [PR](https://github.com/apache/gravitino/pull/8098) | 25.08 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Migrated Flink catalog tests from JUnit4 to JUnit5. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698) | 25.05 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported JUnit5 migration to Iceberg 1.19 and 1.20. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/13165) | 25.05 |
-| ![](https://img.shields.io/badge/Kafka-6DB33F?style=for-the-badge&logo=apache&logoColor=white) | Updated test code and docs to correctly use the retry topic Kafka template bean name. | Improvement, Docs | [PR](https://github.com/spring-projects/spring-kafka/pull/3543) | 24.10 |
+| ![](https://img.shields.io/badge/Kafka-6DB33F?style=for-the-badge&logo=apache&logoColor=white) | Updated test code and docs for Kafka retry topic template bean name. | Improvement, Docs | [PR](https://github.com/spring-projects/spring-kafka/pull/3543) | 24.10 |
 
 </details>
+</div>
+
 
 
 <br>
