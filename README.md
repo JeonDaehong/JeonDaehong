@@ -80,9 +80,24 @@ while designing and operating **scalable and reliable architectures** for large-
 
 <div align="center">
 <details>
-  <summary>
-    <img src="https://img.shields.io/badge/Show%20more...-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Show more" />
-  </summary>
+  <summary style="
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
+  color: white;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 10px 0;
+  transition: background 0.3s ease;
+">
+  Show more ...
+</summary>
+
 
 <br/>
 
