@@ -68,7 +68,7 @@ while designing and operating **scalable and reliable architectures** for large-
   </a>
 </p>
 
-### ⭐️⭐️ contribution & activity list
+### ⭐️⭐️ contribution & activity list ( 11 PR )
 
 | project | summary | Type | link | date |
 |---------|---------|------|------|------|
@@ -81,7 +81,7 @@ while designing and operating **scalable and reliable architectures** for large-
 <div align="center">
 <details>
   <summary style="cursor: pointer; font-weight: bold; font-size: 14px; padding: 6px 12px; border: 1px solid #ccc; border-radius: 6px; background: #f9f9f9; display: inline-block; margin: 10px 0;">
-    Show more
+    Show more ...
   </summary>
 
 <br/>
