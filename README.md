@@ -95,7 +95,7 @@ while designing and operating **scalable and reliable architectures** for large-
   margin: 10px 0;
   transition: background 0.3s ease;
 ">
-  Show more ...
+  Show More My OpenSource PR ...
 </summary>
 
 <br/>
