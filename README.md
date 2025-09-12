@@ -84,6 +84,8 @@ while designing and operating **scalable and reliable architectures** for large-
     Show more
   </summary>
 
+<br/>
+
 | project | summary | Type | link | date |
 |---------|---------|------|------|------|
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed NullPointerException in `EntityCombinedFileset` with null-safe `hiddenProperties`. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8238) | 25.08 |
