@@ -112,8 +112,6 @@ while designing and operating **scalable and reliable architectures** for large-
 </details>
 </div>
 
-
-
 <br>
 
 <h2> 💡 Tech Stack </h2> 
