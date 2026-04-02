@@ -16,19 +16,19 @@
       <a href="https://daehong770.me.kr/">
         <img width="50" height="50" src="https://github.com/user-attachments/assets/f3e01811-c3dd-42fd-8927-92bcf59cbc03" alt="My Blog" />
       </a>
-      <div style="margin-top: 8px; font-weight: bold;">My Blog</div>
+      <div style="margin-top: 8px; font-weight: bold;">Blog</div>
     </td>
     <td align="center" style="padding: 0 40px;">
       <a href="mailto:daehong770@gmail.com">
         <img width="50" height="50" src="https://github.com/user-attachments/assets/a1b40ffb-7ead-43f5-848b-2ec3a7f75cde" alt="My Email" />
       </a>
-      <div style="margin-top: 8px; font-weight: bold;">My Email</div>
+      <div style="margin-top: 8px; font-weight: bold;">Email</div>
     </td>
     <td align="center" style="padding: 0 40px;">
       <a href="https://www.linkedin.com/in/daehong-jeon">
         <img width="50" height="50" src="https://github.com/user-attachments/assets/18a2e315-2214-491b-b84b-2cc174327a7d" alt="My Linkedin" />
       </a>
-      <div style="margin-top: 8px; font-weight: bold;">My Linkedin</div>
+      <div style="margin-top: 8px; font-weight: bold;">Linkedin</div>
     </td>
   </tr>
 </table>
