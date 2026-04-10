@@ -70,47 +70,19 @@ while designing and operating **scalable and reliable architectures** for large-
 
 ### ⭐️⭐️ contribution & activity list ( 11 PR )
 
-| project | summary | Type | link | date |
-|---------|---------|------|------|------|
-| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Fixed Markdown rendering in **Row-level Deletes** section (bullets, duplicates, line breaks). | Docs | [PR](https://github.com/apache/iceberg/pull/13851) | 25.09 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added missing `super.validate()` call in `OAuth2TokenResponse.validate()`. | Bug Fix, Improvement | [PR](https://github.com/apache/gravitino/pull/8376) | 25.09 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed incorrect field assignments in `TestModelMetaService` tests. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8296) | 25.08 |
-| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Added docs for **Table Maintenance in Flink** (file compaction, orphan removal, snapshot expiration). | Docs | [PR](https://github.com/apache/iceberg/pull/13853) | 25.08 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed early return in `GroupMetaService.updateGroup` that ignored non-role updates. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8255) | 25.08 |
-
-<div align="center">
-<details>
-  <summary style="
-  cursor: pointer;
-  font-weight: bold;
-  font-size: 15px;
-  padding: 12px;
-  border: none;
-  border-radius: 8px;
-  background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
-  color: white;
-  text-align: center;
-  width: 100%;
-  box-sizing: border-box;
-  margin: 10px 0;
-  transition: background 0.3s ease;
-">
-  Show More My OpenSource PR ...
-</summary>
-
-<br/>
-
-| project | summary | Type | link | date |
-|---------|---------|------|------|------|
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed NullPointerException in `EntityCombinedFileset` with null-safe `hiddenProperties`. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8238) | 25.08 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed null-safe handling of `managed` property in `CreateFileset.java`. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8144) | 25.08 |
-| ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added `request.validate()` in `PartitionOperations.java` for proper error handling. | Improvement | [PR](https://github.com/apache/gravitino/pull/8098) | 25.08 |
-| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Migrated Flink catalog tests from JUnit4 to JUnit5. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698) | 25.05 |
-| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported JUnit5 migration to Iceberg 1.19 and 1.20. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/13165) | 25.05 |
-| ![](https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | Updated test code and docs for Kafka retry topic template bean name. | Improvement, Docs | [PR](https://github.com/spring-projects/spring-kafka/pull/3543) | 24.10 |
-
-</details>
-</div>
+| Project      | Summary                                                                                            | Type                 | Date  | Link                                                                       |
+| ------------ | -------------------------------------------------------------------------------------------------- | -------------------- | ----- | -------------------------------------------------------------------------- |
+| Iceberg      | 🔥 Added docs for **Table Maintenance in Flink** (compaction, orphan removal, snapshot expiration) | Docs                 | 25.08 | [PR](https://github.com/apache/iceberg/pull/13853)                         |
+| Iceberg      | Fixed Markdown rendering in **Row-level Deletes** (bullets, duplicates, line breaks)               | Docs                 | 25.09 | [PR](https://github.com/apache/iceberg/pull/13851)                         |
+| Gravitino    | 🔥 Fixed validation logic in `OAuth2TokenResponse.validate()` (`super.validate()` missing)         | Bug Fix, Improvement | 25.09 | [PR](https://github.com/apache/gravitino/pull/8376)                        |
+| Gravitino    | Fixed early return in `GroupMetaService.updateGroup` ignoring non-role updates                     | Bug Fix, Test        | 25.08 | [PR](https://github.com/apache/gravitino/pull/8255)                        |
+| Gravitino    | Fixed incorrect field assignments in `TestModelMetaService` tests                                  | Bug Fix, Test        | 25.08 | [PR](https://github.com/apache/gravitino/pull/8296)                        |
+| Gravitino    | Fixed NullPointerException in `EntityCombinedFileset` with null-safe handling                      | Bug Fix, Test        | 25.08 | [PR](https://github.com/apache/gravitino/pull/8238)                        |
+| Gravitino    | Fixed null-safe handling of `managed` property in `CreateFileset.java`                             | Bug Fix, Test        | 25.08 | [PR](https://github.com/apache/gravitino/pull/8144)                        |
+| Gravitino    | Added `request.validate()` in `PartitionOperations.java`                                           | Improvement          | 25.08 | [PR](https://github.com/apache/gravitino/pull/8098)                        |
+| Iceberg      | Migrated Flink catalog tests from JUnit4 → JUnit5                                                  | Improvement (Core)   | 25.05 | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698) |
+| Iceberg      | Backported JUnit5 migration to 1.19 / 1.20                                                         | Improvement (Core)   | 25.05 | [PR](https://github.com/apache/iceberg/pull/13165)                         |
+| Spring Kafka | Updated retry topic template bean name tests & docs                                                | Improvement, Docs    | 24.10 | [PR](https://github.com/spring-projects/spring-kafka/pull/3)               |
 
 <br>
 
