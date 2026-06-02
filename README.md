@@ -36,17 +36,27 @@
 
 <br>
 
-## 🧑‍💻 About Me  
-**💻 Spark & Iceberg-based Large-Scale Data Pipeline Engineer**  
-- Extensive experience in the finance and e-commerce domains, covering everything from Hadoop to modern cloud platforms. Skilled in processing **tens to hundreds of terabytes** of data, developing Spark & cloud-based ETL pipelines, optimizing Hadoop legacy systems, and designing highly available, failover-ready, and concurrency-controlled data infrastructures.
+## 🧑‍💻 About Me
 
-**🌐 I love contributing to open source**  
-- Active contributor and maintainer for data engineering projects such as **Apache Iceberg** and **Apache Kafka**, including issue triage, PR reviews, and documentation improvements.  
+**💻 Data Platform & Lakehouse Engineer**
+- Extensive experience in the finance and e-commerce domains, covering everything from Hadoop-based ecosystems to modern cloud-native data platforms.
+- Skilled in processing **tens to hundreds of terabytes** of data, developing Spark-based distributed ETL pipelines, optimizing Hadoop legacy systems, and designing highly available, failover-ready, and concurrency-controlled data infrastructures.
+- Experienced in designing and building **Data Lakehouse architectures**, operating large-scale **Amazon Redshift-based Data Warehouses**, and developing production-grade ETL orchestration with **Apache Airflow**.
+- Hands-on experience in metadata management, data governance, workflow automation, platform reliability, and large-scale data platform operations.
+- Designed and implemented **OWL ontology-based Virtual Knowledge Graph (VKG)** architectures for semantic data integration and knowledge-driven analytics.
+
+**👥 Leadership & Management**
+- Experience leading data platform projects from architecture design to production operation, while coordinating stakeholders and driving technical decision-making.
+- Actively involved in mentoring, knowledge sharing, technical leadership, and improving engineering productivity through automation and operational excellence.
+
+**🌐 I love contributing to open source**
+- Active contributor to data engineering projects such as **Apache Iceberg** and **Apache Kafka**, including issue triage, bug investigation, PR reviews, and documentation improvements.
 - **Open Source Mentoring (2025.05~)** — Engaged in fostering a healthy and sustainable open source culture in Korea.
 
-**🎯 My Goals**  
-- To grow as a **technology leader** who internalizes and spreads the latest trends within organizations,  
-while designing and operating **scalable and reliable architectures** for large-scale, high-traffic environments.
+**🎯 My Goals**
+- To grow as a **technology leader** who continuously adopts and disseminates emerging technologies while building strong engineering cultures.
+- To design and operate **scalable, reliable, and maintainable data platforms** that support high-volume, mission-critical workloads.
+- To contribute to both business success and the open source ecosystem through technical excellence, leadership, and knowledge sharing.
 
 <br>
 
