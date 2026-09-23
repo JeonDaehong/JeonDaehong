@@ -79,10 +79,12 @@
   </a>
 </p>
 
-### ⭐️⭐️ contribution & activity list ( 11 PR )
+### ⭐️⭐️ contribution & activity list ( 13 PR )
 
 | project | summary | Type | link | date |
 |---------|---------|------|------|------|
+| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Added `PositionDeleteIndex.forEachInRange` and used it in vectorized delete checks — the position delete index is traversed once per batch instead of probed once per row. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/18027) | 26.09 |
+| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported the `forEachInRange` vectorized delete checks to Spark 3.5, 4.0 and 4.1. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/18207) | 26.09 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Fixed Markdown rendering in **Row-level Deletes** section (bullets, duplicates, line breaks). | Docs | [PR](https://github.com/apache/iceberg/pull/13851) | 25.09 |
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added missing `super.validate()` call in `OAuth2TokenResponse.validate()`. | Bug Fix, Improvement | [PR](https://github.com/apache/gravitino/pull/8376) | 25.09 |
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed incorrect field assignments in `TestModelMetaService` tests. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8296) | 25.08 |
