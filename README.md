@@ -69,6 +69,11 @@
     <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" 
          alt="Apache Iceberg" height="40" style="margin-right:10px;" />
   </a>
+  </a>
+  <a href="https://github.com/apache/iceberg-rust" target="_blank">
+    <img src="https://img.shields.io/badge/Apache%20Iceberg%20Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" 
+         alt="Apache Iceberg Rust" height="40" style="margin-right:10px;" />
+  </a>
   <a href="https://github.com/spring-projects/spring-kafka" target="_blank">
     <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" 
          alt="Spring Kafka" height="40" style="margin-right:10px;" />
