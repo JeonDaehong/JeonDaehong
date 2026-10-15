@@ -83,6 +83,7 @@
 
 | project | summary | Type | link | date |
 |---------|---------|------|------|------|
+| ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Aligned `float` and `double` partition value formatting with iceberg-java for consistent partition paths and partition summary keys. | Bug Fix, Improvement(Core) | [PR](https://github.com/apache/iceberg-rust/pull/3358) | 26.10 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Added `PositionDeleteIndex.forEachInRange` and used it in vectorized delete checks — the position delete index is traversed once per batch instead of probed once per row. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/18027) | 26.09 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported the `forEachInRange` vectorized delete checks to Spark 3.5, 4.0 and 4.1. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/18207) | 26.09 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Fixed Markdown rendering in **Row-level Deletes** section (bullets, duplicates, line breaks). | Docs | [PR](https://github.com/apache/iceberg/pull/13851) | 25.09 |
