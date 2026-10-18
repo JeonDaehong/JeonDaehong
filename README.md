@@ -69,10 +69,10 @@
     <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://github.com/apache/iceberg-rust" target="_blank">
-    <img src="https://img.shields.io/badge/Apache%20Iceberg%20Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Apache Iceberg Rust" height="40" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/Apache%20Iceberg%20Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white" alt="Apache Iceberg Rust" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://github.com/apache/paimon-rust" target="_blank">
-    <img src="https://img.shields.io/badge/Apache%20Paimon%20Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Apache Paimon Rust" height="40" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/Apache%20Paimon%20Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black" alt="Apache Paimon Rust" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://github.com/spring-projects/spring-kafka" target="_blank">
     <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Kafka" height="40" style="margin-right:10px;" />
@@ -86,7 +86,7 @@
 
 | Project | Summary | Type | Link | Date |
 |---------|---------|------|------|------|
-| ![](https://img.shields.io/badge/Paimon--Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white) | Built deletion-vector row ranges from Roaring Bitmap runs, improving range generation for contiguous deletes. Reduced read time from 15.4 ms to 2.6 ms in a 4M-row test file with half the rows deleted in one block. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1148) | 26.10 |
+| ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Built deletion-vector row ranges from Roaring Bitmap runs, improving range generation for contiguous deletes. Reduced read time from 15.4 ms to 2.6 ms in a 4M-row test file with half the rows deleted in one block. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1148) | 26.10 |
 | ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Aligned `float` and `double` partition value formatting with iceberg-java for consistent partition paths and partition summary keys. | Bug Fix, Improvement (Core) | [PR](https://github.com/apache/iceberg-rust/pull/3358) | 26.10 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Added `PositionDeleteIndex.forEachInRange` and used it in vectorized delete checks — the position delete index is traversed once per batch instead of probed once per row. | Improvement (Core) | [PR](https://github.com/apache/iceberg/pull/18027) | 26.09 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported the `forEachInRange` vectorized delete checks to Spark 3.5, 4.0 and 4.1. | Improvement (Core) | [PR](https://github.com/apache/iceberg/pull/18207) | 26.09 |
