@@ -60,37 +60,36 @@
 
 <br>
 
-<h2> 🛠️ Open Source Contributions </h2> 
+## 🛠️ Open Source Contributions
 
 ### ⭐️ Contribution Library
 
 <p align="left">
   <a href="https://github.com/apache/iceberg" target="_blank">
-    <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" 
-         alt="Apache Iceberg" height="40" style="margin-right:10px;" />
-  </a>
+    <img src="https://img.shields.io/badge/Apache%20Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Iceberg" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://github.com/apache/iceberg-rust" target="_blank">
-    <img src="https://img.shields.io/badge/Apache%20Iceberg%20Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" 
-         alt="Apache Iceberg Rust" height="40" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/Apache%20Iceberg%20Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Apache Iceberg Rust" height="40" style="margin-right:10px;" />
+  </a>
+  <a href="https://github.com/apache/paimon-rust" target="_blank">
+    <img src="https://img.shields.io/badge/Apache%20Paimon%20Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Apache Paimon Rust" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://github.com/spring-projects/spring-kafka" target="_blank">
-    <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" 
-         alt="Spring Kafka" height="40" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Kafka" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://github.com/apache/gravitino" target="_blank">
-    <img src="https://img.shields.io/badge/Apache%20Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white" 
-         alt="Apache Gravitino" height="40" />
+    <img src="https://img.shields.io/badge/Apache%20Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Gravitino" height="40" />
   </a>
 </p>
 
-### ⭐️⭐️ contribution & activity list ( 13 PR )
+### ⭐️⭐️ Contribution & Activity List (14 PR)
 
-| project | summary | Type | link | date |
+| Project | Summary | Type | Link | Date |
 |---------|---------|------|------|------|
-| ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Aligned `float` and `double` partition value formatting with iceberg-java for consistent partition paths and partition summary keys. | Bug Fix, Improvement(Core) | [PR](https://github.com/apache/iceberg-rust/pull/3358) | 26.10 |
-| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Added `PositionDeleteIndex.forEachInRange` and used it in vectorized delete checks — the position delete index is traversed once per batch instead of probed once per row. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/18027) | 26.09 |
-| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported the `forEachInRange` vectorized delete checks to Spark 3.5, 4.0 and 4.1. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/18207) | 26.09 |
+| ![](https://img.shields.io/badge/Paimon--Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white) | Built deletion-vector row ranges from Roaring Bitmap runs, improving range generation for contiguous deletes. Reduced read time from 15.4 ms to 2.6 ms in a 4M-row test file with half the rows deleted in one block. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1148) | 26.10 |
+| ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Aligned `float` and `double` partition value formatting with iceberg-java for consistent partition paths and partition summary keys. | Bug Fix, Improvement (Core) | [PR](https://github.com/apache/iceberg-rust/pull/3358) | 26.10 |
+| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Added `PositionDeleteIndex.forEachInRange` and used it in vectorized delete checks — the position delete index is traversed once per batch instead of probed once per row. | Improvement (Core) | [PR](https://github.com/apache/iceberg/pull/18027) | 26.09 |
+| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported the `forEachInRange` vectorized delete checks to Spark 3.5, 4.0 and 4.1. | Improvement (Core) | [PR](https://github.com/apache/iceberg/pull/18207) | 26.09 |
 | ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Fixed Markdown rendering in **Row-level Deletes** section (bullets, duplicates, line breaks). | Docs | [PR](https://github.com/apache/iceberg/pull/13851) | 25.09 |
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added missing `super.validate()` call in `OAuth2TokenResponse.validate()`. | Bug Fix, Improvement | [PR](https://github.com/apache/gravitino/pull/8376) | 25.09 |
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed incorrect field assignments in `TestModelMetaService` tests. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8296) | 25.08 |
@@ -99,8 +98,8 @@
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed NullPointerException in `EntityCombinedFileset` with null-safe `hiddenProperties`. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8238) | 25.08 |
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Fixed null-safe handling of `managed` property in `CreateFileset.java`. | Bug Fix, Test | [PR](https://github.com/apache/gravitino/pull/8144) | 25.08 |
 | ![](https://img.shields.io/badge/Gravitino-FF4500?style=for-the-badge&logo=apache&logoColor=white) | Added `request.validate()` in `PartitionOperations.java` for proper error handling. | Improvement | [PR](https://github.com/apache/gravitino/pull/8098) | 25.08 |
-| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Migrated Flink catalog tests from JUnit4 to JUnit5. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698) | 25.05 |
-| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported JUnit5 migration to Iceberg 1.19 and 1.20. | Improvement(Core) | [PR](https://github.com/apache/iceberg/pull/13165) | 25.05 |
+| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Migrated Flink catalog tests from JUnit4 to JUnit5. | Improvement (Core) | [PR](https://github.com/apache/iceberg/pull/13021#issuecomment-2903837698) | 25.05 |
+| ![](https://img.shields.io/badge/Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) | Backported JUnit5 migration to Iceberg 1.19 and 1.20. | Improvement (Core) | [PR](https://github.com/apache/iceberg/pull/13165) | 25.05 |
 | ![](https://img.shields.io/badge/Spring%20Kafka-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | Updated test code and docs for Kafka retry topic template bean name. | Improvement, Docs | [PR](https://github.com/spring-projects/spring-kafka/pull/3543) | 24.10 |
 
 <br>
