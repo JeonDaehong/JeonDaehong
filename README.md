@@ -82,7 +82,7 @@
   </a>
 </p>
 
-### ⭐️⭐️ Contribution & Activity List (14 PR)
+### ⭐️⭐️ Contribution & Activity List
 
 | Project | Summary | Type | Link | Date |
 |---------|---------|------|------|------|
