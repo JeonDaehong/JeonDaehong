@@ -86,6 +86,7 @@
 
 | Project | Summary | Type | Link | Date |
 |---------|---------|------|------|------|
+| ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Optimized delete row selection using deleted ranges instead of per-position iteration, improving read performance by up to 48% for contiguous deletes. | Performance Improvement (Core) | [PR](https://github.com/apache/iceberg-rust/pull/3454) | 26.10 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Fixed FLOAT/DOUBLE comparison inconsistencies with Java, improving partition filtering and statistics correctness. | Bug Fix, Core | [PR](https://github.com/apache/paimon-rust/pull/1190) | 26.10 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Cached typed columns in `SortMergeCursor` to reduce repeated lookups and improve merge performance. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1193) | 26.10 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Reused buffers and merge rows to reduce allocations during sort-merge reads. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1162) | 26.10 |
