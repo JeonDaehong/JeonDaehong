@@ -86,6 +86,7 @@
 
 | Project | Summary | Type | Link | Date |
 |---------|---------|------|------|------|
+| ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Optimized aggregation table reads by bypassing unnecessary sort-merge operations, reducing read time by ~52%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1370) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Kept winning cells by reference, reducing allocations per merged key by ~19.6% and read time by ~13%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1338) | 26.11 |
 | ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Fixed positional delete loading failures that caused retries and concurrent loads to hang. | Bug Fix, Core | [PR](https://github.com/apache/iceberg-rust/pull/3435) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Optimized single-run reads, reducing execution time by ~62%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1164) | 26.11 |
