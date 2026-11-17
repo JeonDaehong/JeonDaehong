@@ -86,6 +86,8 @@
 
 | Project | Summary | Type | Link | Date |
 |---------|---------|------|------|------|
+| ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Optimized key statistics computation at the column level, improving write performance by ~11–13%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1419) | 26.11 |
+| ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Replaced partial-update read processing with picked rows, reducing read time by ~52%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1420) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Optimized partial-update table reads by bypassing unnecessary sort-merge operations, reducing read time by ~54%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1377) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Eliminated unnecessary one-row batch creation during aggregation and partial-update writes, improving write performance by ~3.4x. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1395) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Fixed NULL handling in negated predicates to match Java semantics, preventing incorrect row selection and deletion. | Bug Fix, Core | [PR](https://github.com/apache/paimon-rust/pull/1145) | 26.11 |
