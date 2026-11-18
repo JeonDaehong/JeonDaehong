@@ -86,7 +86,7 @@
 
 | Project | Summary | Type | Link | Date |
 |---------|---------|------|------|------|
-| ![](https://img.shields.io/badge/Iceberg--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Implemented lazy resolution of unknown delete-file sizes via metadata requests on first load, supporting externally constructed scan tasks while avoiding unnecessary upfront I/O. | Feature | [#3433](https://github.com/apache/iceberg-rust/pull/3433) | 2026.10.13 |
+| ![](https://img.shields.io/badge/Iceberg--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Implemented lazy resolution of unknown delete-file sizes through metadata requests, supporting externally constructed scan tasks without unnecessary upfront I/O. | Feature (Core) | [PR](https://github.com/apache/iceberg-rust/pull/3433) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Optimized key statistics computation at the column level, improving write performance by ~11–13%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1419) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Replaced partial-update read processing with picked rows, reducing read time by ~52%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1420) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Optimized partial-update table reads by bypassing unnecessary sort-merge operations, reducing read time by ~54%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1377) | 26.11 |
