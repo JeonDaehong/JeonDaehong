@@ -86,6 +86,8 @@
 
 | Project | Summary | Type | Link | Date |
 |---------|---------|------|------|------|
+| ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Fixed equality delete loading for fields nested in structs, ensuring correct predicate binding and null handling. | Bug Fix (Core) | [PR](https://github.com/apache/iceberg-rust/pull/3453) | 26.11 |
+| ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Reused decoded data blocks across sorted Lookup File lookups, reducing compaction time by ~71.5%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1456) | 26.11 |
 | ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Added lazy resolution of unknown delete-file sizes, avoiding unnecessary metadata I/O. | Feature (Core) | [PR](https://github.com/apache/iceberg-rust/pull/3433) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Optimized key statistics computation at the column level, improving write performance by ~11–13%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1419) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Replaced partial-update read processing with picked rows, reducing read time by ~52%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1420) | 26.11 |
