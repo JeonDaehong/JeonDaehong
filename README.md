@@ -86,6 +86,7 @@
 
 | Project | Summary | Type | Link | Date |
 |---------|---------|------|------|------|
+| ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Batched lookup changelog records instead of emitting one-row batches per key, reducing first compaction time by ~47.5%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1474) | 26.11 |
 | ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Fixed equality delete loading for fields nested in structs, ensuring correct predicate binding and null handling. | Bug Fix (Core) | [PR](https://github.com/apache/iceberg-rust/pull/3453) | 26.11 |
 | ![](https://img.shields.io/badge/Paimon--Rust-FFD700?style=for-the-badge&logo=rust&logoColor=black) | Reused decoded data blocks across sorted Lookup File lookups, reducing compaction time by ~71.5%. | Performance Improvement (Core) | [PR](https://github.com/apache/paimon-rust/pull/1456) | 26.11 |
 | ![](https://img.shields.io/badge/Iceberg--Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white) | Added lazy resolution of unknown delete-file sizes, avoiding unnecessary metadata I/O. | Feature (Core) | [PR](https://github.com/apache/iceberg-rust/pull/3433) | 26.11 |
